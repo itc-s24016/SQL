@@ -21,9 +21,7 @@
 _as_ ... 別名をつける  
     
     select 出金額 as PAY from 家計簿 as MONEYBOOK
-
-
-    
+          
 _is null_ ... NULLの判定をする
 
     select * from 家計簿 where 出金額 is null
