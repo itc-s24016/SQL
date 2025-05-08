@@ -1,10 +1,10 @@
 # SQLメモ
 
 ## 4大命令
-*_SELECT_  
-*_UPDATE_  
-*_DELETE_  
-*_INSERT_  
+* _SELECT_  
+* _UPDATE_  
+* _DELETE_  
+* _INSERT_  
 
 ## その他
 as ... 別名をつける  
