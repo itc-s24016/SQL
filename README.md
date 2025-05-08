@@ -28,3 +28,13 @@ _is null_ ... NULLの判定をする
 
     select * from 家計簿 where 給料 is not null
 
+_like_ ... パターンマッチング
+           (_...任意の一文字, %...任意の0文字以上)
+
+    select * from 家計簿 where メモ like '%購入'
+
+    select * from 家計簿 where メモ like '%100$%' escape '$'
+
+_between_ ... 範囲判定(以上、以下の範囲)
+
+    select * from 家計簿 where 出金額 between 500 and 1000
