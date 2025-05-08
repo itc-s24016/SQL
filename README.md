@@ -1,5 +1,4 @@
-# SQL
-※SQLの授業のメモ
+# SQLメモ
 
 ## 4大命令
 *SELECT  
