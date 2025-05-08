@@ -18,7 +18,7 @@
 
   
 ## その他
-as ... 別名をつける  
+_as_ ... 別名をつける  
     
     select 出金額 as PAY from 家計簿 as MONEYBOOK
     
